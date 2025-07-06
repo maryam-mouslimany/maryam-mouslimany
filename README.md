@@ -1,12 +1,9 @@
-# Hi there 👋 I'm Maryam Mouslimany
+# Hi there 👋 It's Maryam Mouslimany
 
 ### 🎯 Future Software Engineer | 💻 Lifelong Learner
-
-![Banner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 ---
 
-I'm a Computer Science graduate from Lebanon with a growing passion for software engineering. Currently learning Laravel and diving deeper into backend and web development. I’m all about writing clean, maintainable, and thoughtful code — not just code that works, but code that lasts.
+I'm a Computer Science graduate with a growing passion for software engineering. Currently learning Laravel and diving deeper into backend and web development. I’m all about writing clean, maintainable, and thoughtful code — not just code that works, but code that lasts.
 
 ---
 
