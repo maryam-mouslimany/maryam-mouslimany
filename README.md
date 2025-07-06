@@ -1,7 +1,10 @@
-# Hi there 👋 It's Maryam Mouslimany
+<p align="center">
+  <h1 align="center">Hi there 👋 It's Maryam Mouslimany</h1>
+  <h3 align="center">🎯 Future Software Engineer • 💻 Lifelong Learner • 🌐 Backend Enthusiast</h3>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFAFCC&center=true&vCenter=true&width=435&lines=Future+Software+Engineer;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFAFCC&center=true&vCenter=true&width=435&lines=Always+learning+new+things.;Building+clean+%26+thoughtful+code.;Laravel+%7C+PHP+%7C+JavaScript" alt="Typing animation" />
 </p>
 
 ---
@@ -10,9 +13,10 @@ I'm a Computer Science graduate with a growing passion for software engineering.
 
 ---
 
-- 🌍 Based in **Lebanon**
-- 📬 Reach me: [mouslimanymaryam@gmail.com](mailto:mouslimanymaryam@gmail.com)
-- 🔭 Currently learning: **Laravel**
+- 🌍 Based in **Lebanon**  
+- 📬 Reach me: [mouslimanymaryam@gmail.com](mailto:mouslimanymaryam@gmail.com)  
+- 🔭 Currently learning: **Laravel**  
+
 ---
 
 ## 🧠 Skills
@@ -39,7 +43,8 @@ I'm a Computer Science graduate with a growing passion for software engineering.
 
 ---
 
-## 🏅 GitHub Stats
+## 🏅 GitHub Stats (Pastel Edition)
+
 <p align="center">
   <a href="http://www.github.com/maryam-mouslimany">
     <img src="https://github-readme-stats.vercel.app/api?username=maryam-mouslimany&show_icons=true&hide_border=true&title_color=ffafcc&text_color=a2d2ff&icon_color=bde0fe&bg_color=faf3dd" alt="Maryam's GitHub Stats" />
@@ -53,4 +58,5 @@ I'm a Computer Science graduate with a growing passion for software engineering.
 </p>
 
 ---
+
 *Thanks for stopping by! 😊 Let’s connect and build something great together.*
