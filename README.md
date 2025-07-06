@@ -13,7 +13,6 @@ I'm a Computer Science graduate with a growing passion for software engineering.
 - 🌍 Based in **Lebanon**
 - 📬 Reach me: [mouslimanymaryam@gmail.com](mailto:mouslimanymaryam@gmail.com)
 - 🔭 Currently learning: **Laravel**
-- 
 ---
 
 ## 🧠 Skills
@@ -40,8 +39,7 @@ I'm a Computer Science graduate with a growing passion for software engineering.
 
 ---
 
-## 🏅 GitHub Stats (Pastel Edition)
-
+## 🏅 GitHub Stats
 <p align="center">
   <a href="http://www.github.com/maryam-mouslimany">
     <img src="https://github-readme-stats.vercel.app/api?username=maryam-mouslimany&show_icons=true&hide_border=true&title_color=ffafcc&text_color=a2d2ff&icon_color=bde0fe&bg_color=faf3dd" alt="Maryam's GitHub Stats" />
@@ -55,15 +53,4 @@ I'm a Computer Science graduate with a growing passion for software engineering.
 </p>
 
 ---
-
-## ✨ Bonus Badges (Optional)
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8993be?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ffeaa7?style=flat-square&logo=python&logoColor=30586d)
-![JavaScript](https://img.shields.io/badge/JavaScript-fcd5ce?style=flat-square&logo=javascript&logoColor=323330)
-![HTML](https://img.shields.io/badge/HTML-ecc6d9?style=flat-square&logo=html5&logoColor=white)
-
----
-
 *Thanks for stopping by! 😊 Let’s connect and build something great together.*
