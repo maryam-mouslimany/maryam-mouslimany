@@ -43,19 +43,20 @@ I'm a Computer Science graduate with a growing passion for software engineering.
 
 ---
 
-## 🏅 GitHub Stats (Pastel Edition)
+## 🏅 GitHub Stats
 
 <p align="center">
   <a href="http://www.github.com/maryam-mouslimany">
-    <img src="https://github-readme-stats.vercel.app/api?username=maryam-mouslimany&show_icons=true&hide_border=true&title_color=ffafcc&text_color=a2d2ff&icon_color=bde0fe&bg_color=faf3dd" alt="Maryam's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=maryam-mouslimany&show_icons=true&hide_border=true&title_color=ffafcc&text_color=a2d2ff&icon_color=bde0fe&bg_color=000000" alt="Maryam's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="http://www.github.com/maryam-mouslimany">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-mouslimany&hide_border=true&background=faf3dd&ring=ffafcc&fire=ffafcc&currStreakLabel=ffafcc&currStreakNum=a2d2ff&sideNums=a2d2ff&sideLabels=bde0fe&dates=ffc8dd" alt="Maryam's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-mouslimany&hide_border=true&background=000000&ring=ffafcc&fire=ffafcc&currStreakLabel=ffafcc&currStreakNum=a2d2ff&sideNums=a2d2ff&sideLabels=bde0fe&dates=ffc8dd" alt="Maryam's GitHub Streak" />
   </a>
 </p>
+
 
 ---
 
