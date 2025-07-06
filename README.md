@@ -1,7 +1,7 @@
 # Hi there 👋 It's Maryam Mouslimany
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFAFCC&center=true&vCenter=true&width=435&lines=Hi+I'm+Maryam+Mouslimany!;Future+Software+Engineer;Lifelong+Learner;Laravel+%26+Backend+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFAFCC&center=true&vCenter=true&width=435&lines=Future+Software+Engineer;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
