@@ -7,11 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFAFCC&center=true&vCenter=true&width=435&lines=Always+learning+new+things.;Building+clean+%26+thoughtful+code" alt="Typing animation" />
 </p>
 
----
-
-I'm a Computer Science graduate with a growing passion for software engineering. Currently learning Laravel and diving deeper into backend and web development. I’m all about writing clean, maintainable, and thoughtful code not just code that works, but code that lasts.
-
----
+I'm a Computer Science graduate with a growing passion for software engineering. Currently learning Laravel and diving deeper into backend and web development. I’m all about writing clean, maintainable, and thoughtful code not just code that works, but code that lasts
 
 - 🌍 Based in **Lebanon**  
 - 📬 Reach me: [mouslimanymaryam@gmail.com](mailto:mouslimanymaryam@gmail.com)  
