@@ -9,7 +9,7 @@
 
 ---
 
-I'm a Computer Science graduate with a growing passion for software engineering. Currently learning Laravel and diving deeper into backend and web development. I’m all about writing clean, maintainable, and thoughtful code — not just code that works, but code that lasts.
+I'm a Computer Science graduate with a growing passion for software engineering. Currently learning Laravel and diving deeper into backend and web development. I’m all about writing clean, maintainable, and thoughtful code not just code that works, but code that lasts.
 
 ---
 
@@ -48,15 +48,6 @@ I'm a Computer Science graduate with a growing passion for software engineering.
 <p align="center">
   <a href="http://www.github.com/maryam-mouslimany">
     <img src="https://github-readme-stats.vercel.app/api?username=maryam-mouslimany&show_icons=true&hide_border=true&title_color=ffafcc&text_color=a2d2ff&icon_color=bde0fe&bg_color=000000" alt="Maryam's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/maryam-mouslimany">
-    <img
-      src="https://streak-stats.demolab.com?user=maryam-mouslimany&hide_border=true&background=000000&ring=ffafcc&fire=ffafcc&currStreakLabel=ffafcc&currStreakNum=a2d2ff&sideNums=a2d2ff&sideLabels=bde0fe&dates=ffc8dd&cache_seconds=86400"
-      alt="Maryam's GitHub Streak"
-    />
   </a>
 </p>
 
