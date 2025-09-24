@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hi there 👋 It's Maryam Mouslimany</h1>
-  <h3 align="center">🎯 Future Software Engineer • 💻 Lifelong Learner • 🌐 Backend Enthusiast</h3>
+  <h3 align="center">🎯 Software Engineer • 💻 Lifelong Learner • 🌐 Backend Enthusiast</h3>
 </p>
 
 <p align="center">
