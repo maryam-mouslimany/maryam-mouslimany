@@ -52,10 +52,14 @@ I'm a Computer Science graduate with a growing passion for software engineering.
 </p>
 
 <p align="center">
-  <a href="http://www.github.com/maryam-mouslimany">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-mouslimany&hide_border=true&background=000000&ring=ffafcc&fire=ffafcc&currStreakLabel=ffafcc&currStreakNum=a2d2ff&sideNums=a2d2ff&sideLabels=bde0fe&dates=ffc8dd" alt="Maryam's GitHub Streak" />
+  <a href="https://github.com/maryam-mouslimany">
+    <img
+      src="https://streak-stats.demolab.com?user=maryam-mouslimany&hide_border=true&background=000000&ring=ffafcc&fire=ffafcc&currStreakLabel=ffafcc&currStreakNum=a2d2ff&sideNums=a2d2ff&sideLabels=bde0fe&dates=ffc8dd&cache_seconds=86400"
+      alt="Maryam's GitHub Streak"
+    />
   </a>
 </p>
+
 ---
 
 *Thanks for stopping by! 😊 Let’s connect and build something great together.*
